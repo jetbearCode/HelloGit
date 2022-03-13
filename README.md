@@ -15,7 +15,7 @@ This project will lead you to code with git and github.
   
   ![image](https://user-images.githubusercontent.com/101528506/158081006-2679ab65-63cb-49d1-8908-e27d3aaa00a6.png)
   
-  ### Push to track
+  ### commit to track
   - git add
     make git track your files.
     
@@ -25,10 +25,20 @@ This project will lead you to code with git and github.
   
   ![image](https://user-images.githubusercontent.com/101528506/158080842-b66d417c-32fe-47a6-a84f-7a8ed4726e8b.png)
 
-  - git push
  
 ---
 ## Github:
+  ### Initialize
+  - git remote add (origin) <url>
+![image](https://user-images.githubusercontent.com/101528506/158081461-8415a693-56fb-4aea-ae37-3399d3818583.png)  
+  
+  ### Check
+  - git push (origin) (master)
+  
+  ### Push to Github
+  
+  - git push
+  
   
   p.s. git branch
 
